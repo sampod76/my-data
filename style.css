@@ -1,0 +1,106 @@
+
+body{
+font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif;
+}
+
+
+.section-fast-p{
+    margin-top:100px;;
+}
+
+
+
+h1 {
+ font-size:50px;
+}
+
+.orange-calor{
+ color:orange;
+}
+.half-width{
+  width: 50%;
+  padding-left:10px;
+  padding-right: 150px;
+}
+.section-fast-p{
+   margin-right: 30px;
+}
+
+.half-width img{
+ width:100%;
+ margin-top:50px;
+}
+.fast-section{
+    display:flex;
+    margin-top:30px;
+    
+}
+.order-food{
+    text-decoration:none;
+    background-image:linear-gradient(#FFA500,#B72B00);
+    padding:15px 30px;
+    border-radius:30px;
+    color:beige;
+    text-shadow: 2px;
+    font-weight:400;
+  
+
+}
+.section2-bacground{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+} 
+.div-middel3{
+    text-align:center;
+    padding-left:30%;
+    padding-right:30%;
+}
+
+.section3{
+  display:flex;
+  margin-left: 5%;
+  margin-right:5%
+}
+
+
+.section4{
+    text-align: center;
+    display:flex;
+    box-shadow:10px 10px 20px gray;
+    margin:5%;
+    border-radius:30px;
+}
+.section4 div{
+    width: 33%;
+}
+.section4 div p {
+    
+}
+.half-widths3{
+    width:50%;
+    margin-left: 1%;
+    margin-right:1%;
+    border-radius:50px;
+    box-shadow:10px 10px 20px gray;
+   
+}
+ 
+.section3-div2{
+    padding: 20px 50px;
+}
+
+.imgs3{
+   width:100%;
+}
+
+footer{
+    text-align:center;
+    background-color:rgb(39, 35, 35);
+    color:beige;
+    padding-bottom:50px;
+
+  
+
+}
